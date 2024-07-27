@@ -18,7 +18,7 @@ layout:
 
 # Quick Start
 
-Get started in 3 easy steps:
+Get started in 4 easy steps:
 
 1. Install Llama for Sheets from the as a Google Sheets Add on.
 2. From the sheets menu, select Extensions→Llama for Sheets→API Key Setup. Enter your keys.
