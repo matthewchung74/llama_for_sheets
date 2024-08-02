@@ -33,4 +33,3 @@ Get started in 4 easy steps:
 
 <figure><img src=".gitbook/assets/Screenshot%202024-07-19%20at%203.11.59%E2%80%AFPM.png" alt=""><figcaption><p>easiest to reference the vendor and model from the cheatsheet</p></figcaption></figure>
 
-Questions: email me at info@llamaforsheets.com
