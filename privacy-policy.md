@@ -71,6 +71,10 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
+**Explicit User Consent**
+
+By adding your API key, you consent to sending your prompt to the selected third party. Data sent will only be the prompt and the API key used to access the service.
+
 **Information from Third-Party Social Media Services**
 
 The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
