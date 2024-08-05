@@ -34,8 +34,8 @@ For the purposes of this Privacy Policy:
 * **Account** means a unique account created for You to access our Service or parts of our Service.
 * **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
 * **Application** means the software program provided by the Company downloaded by You on any electronic device, named Llama for Sheets.
-* **Company** (referred to as either "the Company", "We", "Us", or "Our" in this Agreement) refers to Better Sheets, 8174 Adrian Dr, Brooksville, FL 34613.
-* **Country** refers to: Florida, United States.
+* **Company** (referred to as either "the Company", "We", "Us", or "Our" in this Agreement) refers to Llama for Sheets™
+* **Country** refers to: California, United States.
 * **Device** means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
 * **Personal Data** is any information that relates to an identified or identifiable individual.
 * **Service** refers to the Application.
