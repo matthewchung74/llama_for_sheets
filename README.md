@@ -1,8 +1,8 @@
 ---
 description: >-
-  Llama for Sheets is  the easiest way to get up and running with LLMs on Google
-  Sheets. Increase your productivity, compare LLMs, and even do RAG, all with
-  Llama for Sheets.
+  Llama for Sheets™ is  the easiest way to get up and running with LLMs on
+  Google Sheets™. Increase your productivity, compare LLMs, and even do RAG, all
+  with Llama for Sheets™.
 layout:
   title:
     visible: true
@@ -20,12 +20,12 @@ layout:
 
 Get started in 4 easy steps:
 
-1. Install Llama for Sheets from the as a Google Sheets Add on.
-2. From the sheets menu, select Extensions→Llama for Sheets→API Key Setup. Enter your keys.
+1. Install Llama for Sheets from the as a Google Sheets™ Add on.
+2. From the sheets menu, select Extensions→Llama for Sheets™→API Key Setup. Enter your keys.
 
 <figure><img src=".gitbook/assets/Screenshot-2024-08-02-at-10.43.56 AM.jpg" alt=""><figcaption></figcaption></figure>
 
-1. From the sheets menu, select Extensions→Llama for Sheets→Cheetsheet. This is a convenience page to show the supported vendors and models. At the time of this screenshot, Claude, Groq, Openai are supported. This will be updated all the time.
+1. From the sheets menu, select Extensions→Llama for Sheets™→Cheetsheet. This is a convenience page to show the supported vendors and models. At the time of this screenshot, Claude, Groq, Openai are supported. This will be updated all the time.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-07-26 at 9.44.43 PM.png" alt=""><figcaption><p>At the time of writing this, Llama 3.1 support just came out. </p></figcaption></figure>
 
